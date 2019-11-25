@@ -1,0 +1,2 @@
+# SHOPBOT
+shopify bot
